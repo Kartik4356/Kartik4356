@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 I'm always open to new opportunities and collaborations! Feel free to connect with me on:
 
 - **Email:** [kartikdalvi2002@gmail.com](mailto:kartikdalvi2002@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kartik-dalvi-a41a101ba)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kartik-dalvi-a41a101ba)
 
 ## 🚀 Let's Build Something Amazing Together!
 
