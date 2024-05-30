@@ -1,6 +1,6 @@
 
 
-### 👋 Hi, I'm KartikDalvi !
+# 👋 Hi, I'm KartikDalvi !
 
 
 ## 💻 About Me
