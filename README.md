@@ -2,7 +2,6 @@
 
 ### 👋 Hi, I'm KartikDalvi !
 
-![Profile Banner](path-to-your-banner-image)
 
 ## 💻 About Me
 
