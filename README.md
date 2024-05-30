@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Languages And Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,eclipse,java,sql,py	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,eclipse,java,mysql,py	)](https://skillicons.dev)
 <!--
 **Kartik4356/Kartik4356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
