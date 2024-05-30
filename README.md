@@ -11,6 +11,7 @@ I'm a passionate software developer with a love for creating innovative and effi
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,eclipse,java,mysql,py	)](https://skillicons.dev)
 
 ## 📫 How to Reach Me
