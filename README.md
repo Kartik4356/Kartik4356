@@ -5,7 +5,13 @@
 
 ## 💻 About Me
 
-I'm a passionate software developer with a love for creating innovative and efficient solutions.I'm always excited to learn new technologies and take on challenging projects.
+🚀 Computer Science Graduate | DevOps & Cloud Enthusiast
+
+Passionate about automating workflows and building scalable infrastructure. I bridge the gap between development and operations using Docker, Kubernetes, and Ansible. When I'm not orchestrating containers on AWS, I'm exploring the intersection of AI and Software Engineering.
+
+🛠️ Currently mastering: Terraform & CI/CD Pipelines
+
+🌱 Past projects: Completely automated CD pipeline  & Email Prioritization Systems
 
 ## 🔧 Technologies & Tools
 
