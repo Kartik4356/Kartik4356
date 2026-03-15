@@ -17,7 +17,7 @@ Passionate about automating workflows and building scalable infrastructure. I br
 
 Here are some of the technologies and tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,eclipse,vscode,java,mysql,py,git,linux,aws,gcp,docker,kubernetes,jenkins,ansible,terraform,promrtheus,grafana&perline=6	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,eclipse,vscode,java,mysql,py,git,linux,aws,gcp,docker,kubernetes,jenkins,ansible,terraform,prometheus,grafana&perline=6	)](https://skillicons.dev)
 
 ## 📫 How to Reach Me
 
